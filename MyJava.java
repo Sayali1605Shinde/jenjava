@@ -1,6 +1,6 @@
 class MyJava{
 public static void main(String args[])
 {
-        System.out.println(" Git Jenkind Integration");
+        System.out.println(" Git Jenkins Integration.welcome!");
 }
 }
